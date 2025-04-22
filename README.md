@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalrn" alt="vishalrn" /></a> </p>
 
-- 🌱 I’m currently pursuing **Integrated MTECH at VIT-AP University**
-
-- 👨‍💻 Portfolio [https://vishalnadagoudar.vercel.app/](https://vishalnadagoudar.vercel.app/)
+- 🌱 I’m currently learning **Integrated MTECH at VIT-AP University**
 
 - 📫 How to reach me **vishalnadagoudar17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal-nadagoudar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-nadagoudar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalrn&show_icons=true&locale=en&layout=compact" alt="vishalrn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalrn&show_icons=true&locale=en" alt="vishalrn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrn&" alt="vishalrn" /></p>
