@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalrn16" alt="vishalrn16" /></a> </p>
 
-- 🌱 I’m currently learning **Integrated MTECH at VIT-AP University**
+- 🌱 I’m currently pursuing **Integrated MTECH at VIT-AP University**
+
+- 👨‍💻 Portfolio [https://vishalnadagoudar.vercel.app/](https://vishalnadagoudar.vercel.app/)
 
 - 📫 How to reach me **vishalnadagoudar17@gmail.com**
 
